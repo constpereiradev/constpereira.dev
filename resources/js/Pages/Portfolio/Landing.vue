@@ -35,7 +35,7 @@
                     <div class="col-sm-5 ms-5 align-self-center">
                         <div class="row">
                             <div class="col-sm-12  fw-bold" style="font-size: 60px;">
-                                Cuidar da saúde ficou mais fácil
+                                Cuidar da saúde ficou mais fácil!
                             </div>
                         </div>
                         <div class="row mb-3">
